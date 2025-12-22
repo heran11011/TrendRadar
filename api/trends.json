@@ -1,78 +1,11 @@
 {
-  "generated_at": "2025-12-23T04:16:05.604669+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-12-23T05:13:54.236871+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
-        },
-        {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时16分]"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
-        },
-        {
-          "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1986466538639811812",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 04时16分]"
-        },
-        {
-          "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
-          "url": "https://wallstreetcn.com/livenews/3025094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -82,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -95,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "量子计算概念股普遍走高，D-Wave涨超20%，Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
@@ -110,6 +43,39 @@
           "time_info": "02时22分"
         },
         {
+          "title": "据The Information：英伟达(NVDA.O)将把云业务团队与工程及运营部门合并。",
+          "url": "https://flash.jin10.com/detail/20251223044411880800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)重组云团队。",
+          "url": "https://flash.jin10.com/detail/20251223044342995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，原材料、金融、能源、工业板块至多涨1.3%，科技板块涨0.3%。 纳斯达克100指数初步收涨0.5%，成分股中，新思科技SNPS、美光科技、WBD涨超3%， 霍尼韦尔跌1.6%，华纳兄弟探索WBD跌2.3%，星巴克跌2.4%，希捷科技跌4.6%。 Merck初步收涨3.6%，摩根大通、Salesforce、英伟达至少涨1.4%，领跑道指成分股，沃尔玛、霍尼韦尔、耐克至多跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "量子计算概念股普遍走高，D-Wave涨超20%，该公司称将参加CES 2026（2026年消费电子展，1月6-9日举行），高管Murry Thom将在1月7日演示（相关信息）。 Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
           "url": "https://wallstreetcn.com/livenews/3025081",
           "source": "华尔街见闻-快讯",
@@ -120,12 +86,113 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时16分]"
+        },
+        {
+          "title": "英伟达重组云团队。云团队与工程和运营部门合并。在重组过程中，重新委派英伟达云部门主管。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3025119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1986466538639811812",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 05时13分]"
+        },
+        {
+          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
+          "url": "https://flash.jin10.com/detail/20251223044006238800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
+          "url": "https://wallstreetcn.com/livenews/3025094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时13分]"
+        },
+        {
+          "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
+          "url": "https://wallstreetcn.com/livenews/3025118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -136,8 +203,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 05时13分]"
+        },
+        {
+          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
+          "url": "https://wallstreetcn.com/livenews/3025122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     }
