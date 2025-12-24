@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T17:19:33.762950+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-12-24T18:16:16.851382+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -104,6 +104,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "欧洲媒体巨头面临AI冲击与广告需求疲软的双重压力",
+          "url": "https://flash.jin10.com/detail/20251224173958645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "投行2026关键词系列：汇丰看多元投资与AI生态丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251224173523204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
