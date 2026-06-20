@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-21T05:07:27.958375+08:00",
-  "total_titles_processed": 408,
-  "failed_sources": [],
+  "generated_at": "2026-06-21T07:01:09.115989+08:00",
+  "total_titles_processed": 445,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/heran11011/img/news.jpg"
 }
